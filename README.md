@@ -5,8 +5,8 @@ Autor del curso Stephen Grider.
 
 ## Información
 
-
 Mini proyecto para empezar a trabajar con Redux.
+Consiste en mostrar una lista de libros. Al seleccionar un libro de la lista se deben mostrar los detalles.
 
 ## Ejecución
 Descargar el código. Una vez en la carpeta introducir:
